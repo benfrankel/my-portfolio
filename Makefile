@@ -1,10 +1,9 @@
 .phony: build view preview debug kill
 
 deploy: build
-	@hugo --destination site/release
-	@cd site/release
-	@git commit -am "Automated Deploy"
-	@git push origin master
+	@git -C site/release add -A
+	@git -C site/release commit -m "Automated Deploy"
+	@git -C site/release push origin master
 
 build:
 	@hugo --destination site/release
