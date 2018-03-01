@@ -1,6 +1,7 @@
 +++
 date = "2018-02-28"
-title = "About Me"
+title = "About"
+heading = "About Me"
 +++
 
 Hello there! My name is **Ben Frankel**. I'm a student at **Iowa State University**, where I study **Computer Science** and **Mathematics**.

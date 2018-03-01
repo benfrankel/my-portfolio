@@ -16,22 +16,22 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Jan 2, 2006: Mon (15:04:05 MST)"
-description = "Description here"
+description = "A blog about math, computers, puzzles, math puzzles, computer puzzles, and computer math."
 copyright = "Copyright © 2018 Ben Frankel"
 copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.png"
 faviconfile = "img/favicon.png"
 highlightjs = true
 progressively = true
-share = true
-latestpostcount = 5
+share = false
+latestpostcount = 6
 github = "benfrankel"
 linkedin = "benfrankel"
 email = "ben.frankel7@gmail.com"
 social_banner = "img/logo.png"
 usesmallsummarycard = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName"
+# githubRepo = "benfrankel/my-portfolio"
 small_banner_logo = false
 
 [params.colors]
