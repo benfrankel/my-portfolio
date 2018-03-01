@@ -18,7 +18,7 @@ Besides what I talk about here, I also like to play [Card Hunter].
 [C]: https://en.wikipedia.org/wiki/C_%28programming_language%29
 [C++]: https://en.wikipedia.org/wiki/C%2B%2B
 [Java]: https://en.wikipedia.org/wiki/Java_%28programming_language%29
-[Rust]: https://rustlang.org
+[Rust]: https://www.rustlang.org
 [Go]: https://en.wikipedia.org/wiki/Go_(programming_language)
 [Kotlin]: https://kotlinlang.org
 [Lua]: https://en.wikipedia.org/wiki/Lua_(programming_language)
