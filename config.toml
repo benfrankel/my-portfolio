@@ -1,12 +1,16 @@
 languageCode = "en-US"
 baseurl = "https://benfrankel.me/"
+
 title = "Shot in the Dark"
 author = "Ben Frankel"
+
 theme = "cocoa-eh"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "site/debug"
+
 disqusshortname = ""
+
 canonifyurls = true
 pluralizelisttitles = false
 
@@ -20,23 +24,48 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Jan 2, 2006: Mon (15:04:05 MST)"
+
 description = "A blog about math, computers, puzzles, math puzzles, computer puzzles, and computer math."
+
 copyright = "Copyright © 2018 Ben Frankel"
 copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
+
 logofile = "img/logo.png"
 faviconfile = "img/favicon.png"
+
 highlightjs = true
 progressively = false
+justify = true
+
 share = false
 latestpostcount = 6
+posts_navigation = true
+
 github = "benfrankel"
 linkedin = "benfrankel"
 email = "ben.frankel7@gmail.com"
+
 social_banner = "img/logo.png"
 usesmallsummarycard = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "benfrankel/my-portfolio"
 small_banner_logo = false
+
+
+[params.fonts]
+import = [
+    "Pacifico",
+    "Raleway",
+    "Merriweather:300,300i,700,700i",
+    "Inconsolata:400,600",
+]
+local = []
+title = "Pacifico, Lobster, Georgia"
+titlecase = "none"
+header = "Raleway, Verdana, 'Helvetica Neue', Helvetica, Arial"
+paragraph = "Merriweather, 'PT Serif', Georgia, 'Times New Roman'"
+code = "Inconsolata, 'Ubuntu Mono'"
+
 
 [params.colors]
 identifier = "#527fc1f"
