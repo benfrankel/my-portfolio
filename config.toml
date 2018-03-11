@@ -30,7 +30,7 @@ description = "A blog about math, computers, puzzles, math puzzles, computer puz
 copyright = "Copyright © 2018 Ben Frankel"
 copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 
-logofile = "img/logo.png"
+logofile = "img/logo.svg"
 faviconfile = "img/favicon.png"
 
 highlightjs = true

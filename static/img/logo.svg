@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="225mm"
-   height="225mm"
-   viewBox="0 0 225 225"
+   width="184.71776mm"
+   height="128.89496mm"
+   viewBox="0 0 184.71776 128.89496"
    version="1.1"
    id="svg8"
    inkscape:export-filename="/home/ben-frankel/dev/blog-new/static/img/logo.png"
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85359623"
-     inkscape:cx="308.78194"
-     inkscape:cy="423.86891"
+     inkscape:cx="230.77882"
+     inkscape:cy="323.85733"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1908"
-     inkscape:window-height="1032"
+     inkscape:window-height="1046"
      inkscape:window-x="4"
-     inkscape:window-y="20"
+     inkscape:window-y="4"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-72)">
+     transform="translate(-20.638325,-141.64365)">
     <path
        style="fill:#73ba87;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
        d="m 112.99719,270.48947 c -15.874977,-148.16668 55.5625,-139.88079 72.94943,-113.42246 17.3869,26.45834 -14.74109,43.75489 -14.74109,43.75489 0,0 33.90538,-39.36261 34.01786,1.78111 0.20271,74.15164 -77.8631,31.97872 -92.2262,67.88646 z"
