@@ -33,7 +33,7 @@ copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.svg"
 faviconfile = "img/favicon.png"
 
-highlightjs = true
+highlightjs = false
 progressively = false
 justify = true
 
