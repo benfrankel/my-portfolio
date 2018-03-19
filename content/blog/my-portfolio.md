@@ -10,6 +10,7 @@ tags = [
 categories = [
     "Web Development",
 ]
+topic = "Web Development"
 +++
 
 The source code for this website can be found [here](https://github.com/benfrankel/my-portfolio), and the static site itself can be found [here](https://github.com/benfrankel/benfrankel.github.io).
