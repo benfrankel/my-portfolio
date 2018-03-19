@@ -25,6 +25,8 @@ dateFormFull = "Jan 2, 2006: Mon (15:04:05 MST)"
 description = "A blog about math, computers, puzzles, math puzzles, computer puzzles, and computer math."
 copyrightNotice = "Copyright 2018 - Ben Frankel"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0/"
+attributionNotice = "Powered by Hugo"
+attributionURL = "powered-by-hugo/"
 logoFile = "img/logo.svg"
 faviconFile = "img/favicon.png"
 github = "benfrankel"
@@ -42,16 +44,15 @@ navigation = [
 
 [params.fonts]
 import = [
-    "Pacifico",
-    "Raleway:300,300i",
     "Merriweather:300,300i,700,700i",
     "Inconsolata:400,600",
+    "Open Sans:300",
 ]
 local = []
-default = "Merriweather, Georgia, 'Times New Roman'"
-title = "Raleway, 'Helvetica Neue', Helvetica, Verdana"
-header = "Merriweather, Verdana, 'Helvetica Neue', Helvetica, Arial"
-code = "Inconsolata, 'Ubuntu Mono'"
+default = "Merriweather, Georgia, 'Times New Roman', serif"
+title = "'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif"
+header = "Merriweather, Verdana, 'Helvetica Neue', Helvetica, Arial, serif"
+code = "Inconsolata, 'Ubuntu Mono', monospace"
 
 [params.color]
 # background = "#ffffff"
@@ -60,3 +61,4 @@ code = "Inconsolata, 'Ubuntu Mono'"
 # header = "#303048"
 # default = "#31353a"
 # quote = "#7a7e82"
+# footnote = "grey"
