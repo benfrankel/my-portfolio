@@ -6,7 +6,7 @@ help:
 .PHONY: deploy ## Build static site and publish
 deploy: build
 	@git -C site/release add -A
-	@git -C site/release commit -m "Automated Deploy"
+	@git -C site/release commit --allow-empty -m "Automated Deploy"
 	@git -C site/release push origin master
 
 .PHONY: build ## Build static site locally
