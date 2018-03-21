@@ -6,7 +6,7 @@ help:
 .PHONY: deploy ## Build static site and publish
 deploy: build
 	@git -C site/release add -A
-	@git -C site/release commit --allow-empty -m "Automated Deploy"
+	@git -C site/release commit -m "Automated Deploy"
 	@git -C site/release push origin master
 
 .PHONY: build ## Build static site locally
@@ -15,12 +15,12 @@ build:
 
 .PHONY: view ## Serve static site locally
 view:
-	@hugo serve --quiet --watch
+	@hugo serve --quiet --watch --disableFastRender
 
 .PHONY: preview ## Serve static site locally with drafts and future posts
 preview:
-	@hugo serve --quiet --buildDrafts --buildFuture --watch
+	@hugo serve --quiet --buildDrafts --buildFuture --watch --disableFastRender
 
 .PHONY: debug ## Serve static site locally with all posts and debug logging enabled
 debug:
-	@hugo serve --debug --verbose --logFile .debug_log --buildDrafts --buildExpired --buildFuture --watch
+	@hugo serve --debug --verbose --logFile .debug_log --buildDrafts --buildExpired --buildFuture --watch --disableFastRender

@@ -1,7 +1,6 @@
 languageCode = "en-US"
 baseURL = "https://benfrankel.me/"
 title = "Shot in the Dark"
-author = "Ben Frankel"
 theme = "butter"
 contentDir = "content"
 layoutDir = "layouts"
@@ -20,13 +19,14 @@ category = "categories"
 blog = "blog/:slug/"
 
 [params]
+description = "A blog about math, computers, puzzles, math puzzles, computer puzzles, and computer math."
+author = "Ben Frankel"
 dateForm = "Jan 2, 2006"
 dateFormFull = "Jan 2, 2006: Mon (15:04:05 MST)"
-description = "A blog about math, computers, puzzles, math puzzles, computer puzzles, and computer math."
 copyrightNotice = "Copyright 2018 - Ben Frankel"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0/"
 attributionNotice = "Powered by Hugo"
-attributionURL = "powered-by-hugo/"
+attributionURL = "/powered-by-hugo/"
 logoFile = "img/logo.svg"
 faviconFile = "img/favicon.png"
 github = "benfrankel"
@@ -50,8 +50,8 @@ import = [
 ]
 local = []
 default = "Merriweather, Georgia, 'Times New Roman', serif"
-title = "'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif"
-header = "Merriweather, Verdana, 'Helvetica Neue', Helvetica, Arial, serif"
+title = "'Open Sans', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif"
+header = "Merriweather, Georgia, 'Times New Roman', serif"
 code = "Inconsolata, 'Ubuntu Mono', monospace"
 
 [params.color]
@@ -61,4 +61,5 @@ code = "Inconsolata, 'Ubuntu Mono', monospace"
 # header = "#303048"
 # default = "#31353a"
 # quote = "#7a7e82"
-# footnote = "grey"
+# footnoteList = "#666"
+# footnoteLink = "dodgerblue"
