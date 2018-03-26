@@ -35,10 +35,10 @@ email = "ben.frankel7@gmail.com"
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "benfrankel/my-portfolio"
 navigation = [
-    ["blog", "blog"],
-    ["projects", "projects"],
-    ["puzzles", "puzzles"],
-    ["about", "about"],
+    ["blog", "blog/"],
+    ["projects", "projects/"],
+    ["puzzles", "puzzles/"],
+    ["about", "about/"],
     ["résumé", "doc/resume.pdf"],
 ]
 
