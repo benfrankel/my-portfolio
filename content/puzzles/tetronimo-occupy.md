@@ -7,7 +7,7 @@ categories = [
 ]
 +++
 
-You have an 8x8 board, and you must partially cover it with a single kind of tetromino in such a way that it is impossible to place any additional tetrominoes of that kind in the empty spaces. Additionally, no two tetrominoes may touch by their edges.
+You have an 8x8 board, and you have to place a single kind of tetromino onto the board until no empty region of the board can fit a tetromino of that kind. No two placed tetrominoes may touch by their edges.
 
 I consider tetrominoes that are reflections of each other to be different, so there are 7 possible choices:
 
