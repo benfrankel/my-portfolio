@@ -19,6 +19,8 @@ For which tetrominoes is this possible, and how many pieces does it require (min
 
 {{% footnote Answer %}}
 {{% hover-reveal-region %}}
-TODO: write answer here.
+It is possible for the O, S, T, and Z tetrominoes and impossible for the I, J, and L tetrominoes.
+
+![](/img/puzzle-assets/occupy-o.png)
 {{% /hover-reveal-region %}}
 {{% /footnote %}}

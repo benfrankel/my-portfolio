@@ -17,7 +17,6 @@ I remember a few useful details. Maybe my memories could serve as a Rosetta Ston
 
 Susan referred to herself as "Nntog", and to her language as "Susubam". Following is a list of words and their translations that I can recall.
 
-<center>
 ```
 | Time | Good | Have | Give | Want | Take | Make | Know | Last | Long | Next | Come |
 | Cvry | Vdsk | Iwam | Peal | Xohq | Ulpy | Nlpr | Yclh | Mtmf | Acus | Scrh | Rbrh |
@@ -25,14 +24,7 @@ Susan referred to herself as "Nntog", and to her language as "Susubam". Followin
 | I | A | You | He | She | It | The | Of | On | And | But | Or | Right | Add | Near |
 | I | A | Njt | Mm | Amx | Cc | Bmy | Uu | Cc | Ore | Wov | Gg | Apobl | Ehe | Sfsf |
 ```
-</center>
 
 There were more... but I can only remember so much.
 
 Oh, and as I was leaving, she told me, "Hgjqz cqjos njmh yizaj, cm'i hgqccnkb rapf am clp". She must have forgotten for a moment that I don't speak Susubam?
-
-{{% footnote Answer %}}
-{{% hover-reveal-region %}}
-TODO: write answer here.
-{{% /hover-reveal-region %}}
-{{% /footnote %}}

@@ -59,7 +59,7 @@ elusive
 perjury
 ```
 
-##### Card 4: *cardinal NEWS* [^1] {#4}
+##### Card 4: *cardinal NEWS*[^1] {#4}
 
 ```
 24 2 0 23 0 3 3 23 2 0 34
@@ -87,7 +87,7 @@ _/\_/    \_/\_/              \_/\_/    \_/\_
 ''.join(card[i].ans[-i] for i in (1,2,3,4,5))
 ```
 
-##### Card 7: *five by five* [^2] {#7}
+##### Card 7: *five by five*[^2] {#7}
 
 ```
 step 1) determin. the previous answers 2 through 6 in order
