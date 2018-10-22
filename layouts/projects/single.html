@@ -1,0 +1,27 @@
+{{ partial "page-begin.html" . }}
+
+{{ $docsURL := replace (relURL .URL) "/projects/" "/projects/docs/" }}
+{{ $docsFile := printf "%sindex.html" $docsURL }}
+
+{{ $demoURL := replace (relURL .URL) "/projects/" "/projects/demos/" }}
+{{ $demoFile := printf "%sindex.html" $demoURL }}
+
+{{ if (or (fileExists $docsFile) (fileExists $demoFile) (.Params.repo)) }}
+<div class="meta-box">
+  <ul class="inline-list">
+    {{ if (fileExists $demoFile) }}
+    <li><a href="{{ $demoURL }}">Try the demo</a></li>
+    {{ end }}
+    {{ with .Params.repo }}
+    <li><a href="{{ . }}">Browse the code</a></li>
+    {{ end }}
+    {{ if (fileExists $docsFile) }}
+    <li><a href="{{ $docsURL }}">Read the docs</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
+{{ .Content }}
+
+{{ partial "page-end.html" . }}

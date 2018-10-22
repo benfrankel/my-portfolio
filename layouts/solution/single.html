@@ -1,0 +1,10 @@
+{{ partial "page-begin.html" . }}
+
+{{ $puzzleURL := replace (relURL .URL) "/solutions/" "/" }}
+{{ $puzzleFile := printf "%s.md" (strings.TrimSuffix "/" $puzzleURL) }}
+
+<h2 class="immediate">Solution{{ if (fileExists $puzzleFile) }} (<a href="{{ replace .URL "/solutions/" "/" }}">Puzzle</a>){{ end }}</h2>
+
+{{ .Content }}
+
+{{ partial "page-end.html" . }}

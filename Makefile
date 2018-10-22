@@ -1,3 +1,5 @@
+HUGO_SERVE_FLAGS = --watch --disableFastRender --forceSyncStatic
+
 .PHONY: help ## Print this help
 help:
 	@echo Options
@@ -15,12 +17,12 @@ build:
 
 .PHONY: view ## Serve static site locally
 view:
-	@hugo serve --quiet --watch --disableFastRender
+	@hugo serve ${HUGO_SERVE_FLAGS} --quiet
 
 .PHONY: preview ## Serve static site locally with drafts and future posts
 preview:
-	@hugo serve --quiet --buildDrafts --buildFuture --watch --disableFastRender
+	@hugo serve ${HUGO_SERVE_FLAGS} --quiet --buildDrafts --buildFuture
 
 .PHONY: debug ## Serve static site locally with all posts and debug logging enabled
 debug:
-	@hugo serve --debug --verbose --logFile .debug_log --buildDrafts --buildExpired --buildFuture --watch --disableFastRender
+	@hugo serve ${HUGO_SERVE_FLAGS} --debug --verbose --logFile .debug_log --buildDrafts --buildExpired --buildFuture

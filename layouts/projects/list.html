@@ -1,0 +1,15 @@
+{{ partial "list-begin.html" . }}
+
+{{ $y := .Pages.GroupByDate "2006" }}
+{{ $c := .Site.Taxonomies.categories }}
+{{ $t := .Site.Taxonomies.tags }}
+
+{{ $groupings := dict "Year" $y "Category" $c "Tag" $t }}
+{{ $keys := split "Year,Category,Tag" "," }}
+
+{{ $pages := where .Pages "Params.post" true }}
+
+{{ $args := dict "Groupings" $groupings "Pages" $pages "Keys" $keys }}
+{{ partial "list-widget.html" $args }}
+
+{{ partial "list-end.html" . }}

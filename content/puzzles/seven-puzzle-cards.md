@@ -1,10 +1,11 @@
 +++
-date = "2015-09-29"
 title = "Seven Puzzle Cards"
 description = "A set of seven small enigmatic puzzles"
+date = "2015-09-29"
 categories = [
     "Enigmatic Puzzles",
 ]
+post = true
 +++
 
 ##### Card 0: *title*
@@ -95,16 +96,6 @@ step 1) determin. the previous answers 2 through 6 in order
 step 2) verify that the plural is a name
 step 3) shake well
 ```
-
-{{% footnote Answers %}}
-1. {{% click-reveal Card 1 %}}`vault`{{% /click-reveal %}}
-2. {{% click-reveal Card 2 %}}`robot`{{% /click-reveal %}}
-3. {{% click-reveal Card 3 %}}`merge`{{% /click-reveal %}}
-4. {{% click-reveal Card 4 %}}`burnt`{{% /click-reveal %}}
-5. {{% click-reveal Card 5 %}}`shock`{{% /click-reveal %}}
-6. {{% click-reveal Card 6 %}}`torus`{{% /click-reveal %}}
-7. {{% click-reveal Card 7 %}}`wiles`{{% /click-reveal %}}
-{{% /footnote %}}
 
 [^1]: {{% click-reveal Hint %}}33 vertices{{% /click-reveal %}}
 [^2]: {{% click-reveal Hint %}}What is `determin.`, and why should it require computer assistance?{{% /click-reveal %}}

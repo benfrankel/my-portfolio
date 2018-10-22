@@ -5,6 +5,7 @@ date = "2015-04-15"
 categories = [
     "Codebreaking",
 ]
+post = true
 +++
 
 **Susan was born** with an extreme case of the rare communication disorder, "dyscryptia", which has enthralled neuroscientists and computer scientists alike from all 6 corners of the globe. She is one of only a dozen recorded cases. This puzzling disorder is unique in that in each of the twelve cases, the disorder manifests itself in a distinct manner; the common denominator being that the disorder always affects communication letter by letter.

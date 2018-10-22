@@ -2,6 +2,7 @@
 date = "2018-02-28"
 title = "About"
 altTitle = "About Me"
+showtaxonomy = false
 +++
 
 Hello there! My name is **Ben Frankel**. I'm a student at **Iowa State University**, where I study **Computer Science** and **Mathematics**.
