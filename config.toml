@@ -1,5 +1,5 @@
 languageCode = "en-US"
-baseURL = "https://benfrankel.me/"
+baseURL = "https://benfrankel.com/"
 title = "Shot in the Dark"
 theme = "butter"
 contentDir = "content"
