@@ -7,6 +7,10 @@ categories = [
 tags = [
     "social",
 ]
+
+post = true
+showtime = true
+showtaxonomy = true
 +++
 
 
