@@ -1,10 +1,10 @@
 +++
-title = "Home"
+title = "Homepage"
 +++
 
-_If you keep running into a wall, you might quantum tunnel to the other side._
+<!-- _If you keep running into a wall, you might quantum tunnel to the other side._ -->
 
-Welcome to my blog! If you like math, computers, puzzles, math puzzles, computer puzzles, computer math, building things, or breaking things, you've come to the right place.
+Welcome to my website! If you like math, computers, puzzles, math puzzles, computer puzzles, computer math, building things, or breaking things, you've come to the right place.
 
 Learn more [about me](about), see what I've [built](projects), or read what I've [written](blog).
 

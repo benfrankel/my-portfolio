@@ -26,4 +26,4 @@ But it makes me uncomfortable.
 
 I feel like I have to fight an uphill battle to prove that I'm a good person. I would never introduce myself as the "smart friend", but when someone else does it for me, it's out of my control. I have to fight the stigma and downplay my intelligence to make the other person feel comfortable.
 
-A better introduction would be something like, "this is my friend from \_\_\_\_, he works in \_\_\_\_, we like to do \_\_\_\_". No attributes attached, so my character can speak for itself.
+A better introduction would be something like, "this is my friend from \_\_\_\_, he works in \_\_\_\_, we like to do \_\_\_\_". No attributes attached, so they can form their own judgement.
