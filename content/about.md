@@ -1,19 +1,25 @@
 +++
-date = "2019-05-06"
+date = "2020-06-05"
 title = "About"
 altTitle = "About Me"
 showtaxonomy = false
 +++
 
-Hello there! My name is **Ben Frankel**. I'm a student at **Iowa State University**, where I study **Computer Science** and **Mathematics**.
+Hello there! My name is **Ben Frankel**. I'm currently employed as a software engineer at **Google**. However, this is my personal website: All of the opinions on this site are my own (even the bad ones), and don't reflect the opinions of my employer.
 
-I love to learn new things, and I love to build new things. Lately I've been learning more about computer networks and the Internet.
+I love learning new things and building new things. Lately I've been learning more about computer graphics.
 
-I work on a [Thinkpad] E580 laptop powered by [Arch Linux] \(more on [my setup]). I do a lot of programming with [Python], but I also work in [C], [C++], [Java], and [Rust]. In the future I'd like to get to know some other languages, like [Go] \(neat concurrency), [Kotlin] \(interop with Java), and [Lua] \(interop with C).
+I run [Arch Linux] on a PC that I "built" (_I ordered the parts and screwed them together_):
 
-If you have an interesting puzzle, [send](mailto:ben.frankel7@gmail.com) it to me!
+- **CPU:** AMD Ryzen 5 3600
+- **GPU:** XFX RX 570
+- **RAM:** 16GB x2
 
-Besides what I talk about here, I also like to play [Smash] \(I main Villager) and [Card Hunter].
+This is my first PC. It's been pretty cool so far. I'm also using two 24" monitors suspended by a dual monitor desk mount (I didn't know this was a thing before!). More on [my setup] from the software side.
+
+I do a lot of programming with [Python] and [Rust], but I've also worked with [C], [C++], [Java], and [Go]. I have some strong opinions on programming languages. I probably shouldn't get into it here.
+
+Besides the boring stuff, I also like to play [Smash] \([guh-huh]) and watch [Steven Universe].
 
 [Python]: https://www.python.org
 [C]: https://en.wikipedia.org/wiki/C_%28programming_language%29
@@ -21,12 +27,10 @@ Besides what I talk about here, I also like to play [Smash] \(I main Villager) a
 [Java]: https://en.wikipedia.org/wiki/Java_%28programming_language%29
 [Rust]: https://www.rustlang.org
 [Go]: https://en.wikipedia.org/wiki/Go_(programming_language)
-[Kotlin]: https://kotlinlang.org
-[Lua]: https://en.wikipedia.org/wiki/Lua_(programming_language)
 
-[Thinkpad]: https://en.wikipedia.org/wiki/ThinkPad
 [Arch Linux]: https://wiki.archlinux.org/index.php/Arch_Linux
 [my setup]: https://github.com/benfrankel/dotfiles
 
 [Smash]: https://www.smashbros.com/en_US/
-[Card Hunter]: https://game.cardhunter.com
+[guh-huh]: https://www.youtube.com/watch?v=GD1dpLSvoNU
+[Steven Universe]: https://www.youtube.com/watch?v=pRc_Ng5y8Dk
