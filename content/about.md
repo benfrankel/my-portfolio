@@ -1,11 +1,11 @@
 +++
-date = "2020-06-05"
+date = "2021-07-01"
 title = "About"
 altTitle = "About Me"
 showtaxonomy = false
 +++
 
-Hello there! My name is **Ben Frankel**. I'm currently employed as a software engineer at **Google**. However, this is my personal website: All of the opinions on this site are my own (even the bad ones), and don't reflect the opinions of my employer.
+Hello there! My name is **Ben Frankel**.
 
 I love learning new things and building new things. Lately I've been learning more about computer graphics.
 
@@ -17,7 +17,7 @@ I run [Arch Linux] on a PC that I "built" (_I ordered the parts and screwed them
 
 This is my first PC. It's been pretty cool so far. I'm also using two 24" monitors suspended by a dual monitor desk mount (I didn't know this was a thing before!). More on [my setup] from the software side.
 
-I do a lot of programming with [Python] and [Rust], but I've also worked with [C], [C++], [Java], and [Go]. I have some strong opinions on programming languages. I probably shouldn't get into it here.
+I do a lot of programming with [Rust] and [Python], but I've also worked with [C++], [C], [Go], and [Java]. I have some strong opinions on programming languages. I probably shouldn't get into it here.
 
 Besides the boring stuff, I also like to play [Smash] \([guh-huh]) and watch [Steven Universe].
 
